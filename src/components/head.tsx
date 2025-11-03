@@ -35,11 +35,11 @@ export function Head({ metadata }: { metadata: Metadata }) {
       />
       <meta
         name='twitter:image'
-        content='https://notharshhaa.site/opengraph-image.png'
+        content='public\opengraph-image.png'
       />
       <meta property='twitter:image:width' content='1200' />
       <meta property='twitter:image:height' content='630' />
-      <meta property='twitter:image:alt' content='HARSHHAA' />
+      <meta property='twitter:image:alt' content='Yash' />
       <meta property='twitter:image:type' content='image/png' />
 
       <meta name='msapplication-TileColor' content='#000000' />
