@@ -2,7 +2,7 @@
 
 A modern, interactive portfolio featuring a unique bento grid layout that showcases my work, skills, and journey in DevOps, cloud engineering, and tech content creation.
 
-![Portfolio Preview](public/assets/desktop-preview.png)
+![Portfolio Preview](public\assets\overview.png)
 
 ---
 
@@ -24,11 +24,11 @@ This portfolio features a **bento grid layout** — a modern, asymmetric grid de
 - 📱 **Mobile-First Design** with optimized touch interactions
 
 ### Desktop View
-![Desktop View](public/assets/desktop-view.png)
+![Desktop View](public\assets\desktop-view.png)
 
 ### Mobile View
 <div align="center">
-  <img src="public/assets/mobile-view.png" alt="Mobile View" width="375px">
+  <img src="public\assets\mobile-view.png" alt="Mobile View" width="375px">
 </div>
 
 ---
