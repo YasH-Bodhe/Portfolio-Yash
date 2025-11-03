@@ -1,6 +1,6 @@
 # ✨ Personal Portfolio — Showcasing My Work & Skills
 
-![Portfolio Banner](https://imgur.com/J4YkCks.png)
+![Portfolio Banner](public\assets\snapshot.png)
 
 Welcome to my personal portfolio! This website is a reflection of my journey, skills, and projects in the world of DevOps, cloud, and tech content creation.
 
