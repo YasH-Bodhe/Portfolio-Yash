@@ -2,7 +2,7 @@
 
 A modern, interactive portfolio featuring a unique bento grid layout that showcases my work, skills, and journey in DevOps, cloud engineering, and tech content creation.
 
-![Portfolio View](public\assets\overview.png)
+![Portfolio Preview](public\assets\overview.png)
 
 ---
 
@@ -28,7 +28,7 @@ This portfolio features a **bento grid layout** — a modern, asymmetric grid de
 
 ### Mobile View
 <div align="center">
-  <img src="public\assets\mobile-view.png" alt="Mobile View" width="375px">
+  <img src="public/assets/mobile-view.png" alt="Mobile View" width="375px">
 </div>
 
 ---
@@ -194,5 +194,3 @@ This project is open source and available under the [MIT License](LICENSE).
   <p>Made with ❤️ and lots of ☕</p>
   <p>⭐ Star this repo if you found it helpful!</p>
 </div>
-
-[def]: public\assets\overview.png
