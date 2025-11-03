@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -13,24 +11,31 @@
 /.next/
 /out/
 
-# production
+# production build
 /build
 
 # misc
 .DS_Store
 *.pem
+*.log
+*.log.*
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# local env files (IMPORTANT - hides your API keys)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# local env files
-.env*.local
-
-# vercel
+# vercel deployment folder
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# backup or temp files
+*.swp
+*.bak
+*.tmp
+*.old
